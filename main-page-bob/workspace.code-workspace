@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../gsap-scrolltrigger"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "main-page-bob"
+	}
+}
